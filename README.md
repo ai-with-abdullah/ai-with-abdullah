@@ -79,7 +79,8 @@ Worked on multiple data science projects focusing on:
 - 📞 **WhatsApp:** +92 319 412 4382
 - 📧 **Email:** aiwithabdullah071@gmail.com
 - 🔗 **LinkedIn:** [AI with Abdullah](https://www.linkedin.com/in/ai-with-abdullah)
-- 🌍 **Portfolio:** [Word Counter Plus](https://wordcounterplusapp.com)
+- 🌍 **Portfolio:** [Personal Portfolio website](https://portfolio-pro-three-plum.vercel.app/)
+- 🧮 **Website link:** [Word Counter Plus](https://wordcounterplusapp.com)
 - 💼 **GitHub:** You're already here! Check out my repositories below ⬇️
 
 ---
