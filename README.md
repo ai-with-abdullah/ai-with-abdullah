@@ -2,7 +2,6 @@
 
 **AI Developer | Data Scientist | Full-Stack Developer**  
 🎓 BSAI Student at The Islamia University of Bahawalpur  
-📚 4 Semesters Completed | CGPA: 3.3  
 
 ---
 
